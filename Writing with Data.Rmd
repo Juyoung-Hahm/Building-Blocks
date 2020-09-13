@@ -67,4 +67,5 @@ ggplot(plot_df, aes(x = x, y = y)) + geom_point()
 ```
 
 
-# 
+git remote -v
+
