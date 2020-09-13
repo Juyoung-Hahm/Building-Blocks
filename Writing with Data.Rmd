@@ -2,7 +2,7 @@
 title: "Building Blocks - Writing with Data"
 author: Juyoung(Rosemary) Hahm
 date: 2020-9-13
-output: html_document
+output: github_document
 ---
 ```{r setup, include = FALSE}
 library(tidyverse)
